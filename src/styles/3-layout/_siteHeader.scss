@@ -1,0 +1,48 @@
+
+//Banner 
+.banner{ 
+width: 100vw;
+display: flex;
+align-items: flex-end;
+}
+//Banner Title
+#banner__text{
+text-align: center;
+margin: 0px;
+z-index: index($elements, title);
+width: 100%;
+position: absolute;
+}
+
+//Banner Image
+#banner__image{
+// height: 573px;
+width: 100%;
+position: relative;
+// z-index: index($elements, site);
+
+}
+
+
+
+// @media (min-width: 321px) {
+//     .img {
+//       background-image: url(large.jpg);
+//     }
+//   }
+//   @media (min-width: 1024px) {
+//     .img {
+//       background-image: url(large.jpg);
+//     }
+//   }
+//   @media (min-width: 1440px) {
+//     .img {
+//       background-image: url(large.jpg);
+//     }
+//   }
+//   @media (min-width: 2560px) {
+//     .img {
+//       background-image: url(large.jpg);
+//     }
+//   }
+

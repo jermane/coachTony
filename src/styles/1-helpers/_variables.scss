@@ -1,0 +1,35 @@
+//////////////////////
+// Colour/// 
+/////////////////////
+$bckgrnd-color: #161616;
+$font-color: #eff;
+
+//font//
+$font: 'Open Sans', Helvetica, sans-serif;
+$font_size: 18px;
+
+// $default-size: //
+$banner_hieght_Mob: 573px;
+$banner_hieght_Tab: 730px;
+$banner_hieght_Desk: 768px;
+$banner_hieght_HD: 1024px;
+
+// Break Points //
+$breakpoints: (
+    'phone':        400px,
+    'phone-wide':   480px,
+    'phablet':      560px,
+    'tablet-small': 640px,
+    'tablet':       768px,
+    'tablet-wide':  1024px,
+    'desktop':      1248px,
+    'desktop-wide': 1440px
+);
+
+// Z-index layers //
+$elements: site, title, menu;  
+    
+
+    
+
+

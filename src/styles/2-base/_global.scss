@@ -1,0 +1,14 @@
+//BASE STYLES ===================
+body {
+    background: $bckgrnd-color;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    color: $font-color;
+    z-index: index($elements, site);
+    
+
+}
+img {
+    object-fit: cover;
+}    
